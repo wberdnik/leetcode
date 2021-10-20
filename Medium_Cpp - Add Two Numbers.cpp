@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/add-two-numbers/submissions/
+// https://leetcode.com/problems/add-two-numbers/
 //O(1) memory
 ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* r_l1 = new ListNode(0);
