@@ -1,7 +1,7 @@
 class Solution {
  
     CONST ALPHABET = ['A','B','c','D','E','F','G','H','I','J','K','L','M',
-           'N','O','P','Q','R','S','T','U','V','W','X','Y','Z']; // could change
+           'N','O','P','Q','R','S','T','U','V','W','X','Y','Z']; // be able to change
     CONST LENGTH_ANSWER = 5;
  
     public function convert($number){
