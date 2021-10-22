@@ -31,7 +31,7 @@ class Solution {
                 
         return '';
     }
-    public function testSolution($nums, $target) {
+    public function testSolution() {
         $tests = [
           0 => '',
           18 => 'A0018',
